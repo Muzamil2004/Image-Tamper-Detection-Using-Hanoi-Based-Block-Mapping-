@@ -33,7 +33,7 @@ Usage
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Image-Tamper-Detection.git
+git clone https://github.com/Muzamil2004/Image-Tamper-Detection-Using-Hanoi-Based-Block-Mapping-
 cd Image-Tamper-Detection
 
 
